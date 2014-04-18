@@ -26,7 +26,7 @@ public class HelloWorldOne {
     }
 
     public void sayHello() {
-        System.out.println("Hello "+theWord);
+        System.out.println("More hello "+theWord);
     }
 
     public String getTheWord() {
